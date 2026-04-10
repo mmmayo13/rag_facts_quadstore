@@ -11,7 +11,7 @@ from quadstore import QuadStore
 nlp = None
 
 # NBA 2023 stats data file
-NBA_2023_STATS_FILE = "data/nba_stats_2023_quads.jsonl"
+NBA_2023_STATS_FILE = "nba_stats_2023_quads.jsonl"
 
 def get_nlp():
     global nlp
